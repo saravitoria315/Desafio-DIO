@@ -1,2 +1,3 @@
 let nome="Lukitós";
-console.log(nome);
+let sobrenome="Henrick"
+console.log(nome + " " + sobrenome);
